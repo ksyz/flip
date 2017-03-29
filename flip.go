@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"flag"
-	"ipernity"
+	"github.com/ksyz/ipernity"
 	"io/ioutil"
 	"os"
 	"strconv"
